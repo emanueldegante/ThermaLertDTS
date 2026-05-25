@@ -54,7 +54,7 @@ plt.style.use('seaborn-v0_8-white')
 SMTP_SERVER = "smtp.gmail.com"         
 SMTP_PORT = 587
 EMAIL_SENDER = "geophysicsunb@gmail.com"   
-EMAIL_PASSWORD = "qmyzqduwojfbwjen"   
+EMAIL_PASSWORD =
 EMAIL_RECIPIENT = "emanuel.degante@unb.ca " 
 minutes=int(5)
 
